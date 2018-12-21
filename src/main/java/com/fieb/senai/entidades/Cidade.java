@@ -34,6 +34,11 @@ private Estado estado;
         this.nome = nome;        
     }
 
+    public Cidade() {
+    }
+    
+    
+
     public Integer getId() {
         return id;
     }

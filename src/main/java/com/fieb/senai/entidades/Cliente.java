@@ -49,6 +49,11 @@ public class Cliente {
         this.sexo = sexo;        
     }
 
+    public Cliente() {
+    }
+    
+    
+
     public Integer getId() {
         return id;
     }

@@ -34,6 +34,11 @@ public class Estado {
         this.nome = nome;
     }
 
+    public Estado() {
+    }
+    
+    
+
     public Integer getId() {
         return id;
     }

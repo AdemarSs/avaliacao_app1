@@ -40,6 +40,11 @@ public class Endereco {
         this.bairro = bairro;
     }
 
+    public Endereco() {
+    }
+    
+    
+
     public Integer getId() {
         return id;
     }
